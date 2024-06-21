@@ -1,4 +1,4 @@
-k8s-sidecar:1.19.2
-grafana:8.3.5
-loki:2.6.1
-promtail:2.7.4
+quay.io/kiwigrid/k8s-sidecar:1.19.2
+grafana/grafana:8.3.5
+grafana/loki:2.6.1
+docker.io/grafana/promtail:2.7.4
