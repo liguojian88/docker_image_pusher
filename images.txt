@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-bitnami/kubectl:1.30.5
+jitesoft/kubectl:v1.30
