@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher-webhook:v0.6.1
+rancher/system-upgrade-controller:v0.14.2
