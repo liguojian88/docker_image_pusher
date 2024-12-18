@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher:v2.10.0
+rancher/shell:v0.3.0
