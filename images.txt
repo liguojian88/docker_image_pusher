@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 registry.k8s.io/ingress-nginx/controller:v1.12.1
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
+supersonicbi/supersonic:0.9.10-SNAPSHOT
