@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 registry.k8s.io/ingress-nginx/controller:v1.12.1
-grafana/promtail:2.9.4
+apache/superset:3.1.3
